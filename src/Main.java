@@ -17,7 +17,7 @@ public class Main {
         }
 
         System.out.println("Задача 4");
-        for (int d = 10; d > (-11); d = d - 1) {
+        for (int d = 10; d > (-11); d = d - 1)  {
             System.out.println(d);
         }
 
